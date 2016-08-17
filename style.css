@@ -1,0 +1,22 @@
+table, td,th{
+    border: solid;
+}
+
+
+td, th{
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    
+}
+#table1 {
+    float: left;
+    width: 45%;
+    
+}
+
+#table2 {
+    float: right;
+    width: 45%;
+    
+}
