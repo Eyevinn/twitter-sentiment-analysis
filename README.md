@@ -1,4 +1,7 @@
 # twitter-sentiment-analysis
+Dependancies: 
+  tweepy
+  nltk
 
 # License
 
